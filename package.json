@@ -36,7 +36,7 @@
     "react-dom": ">=15.0.0"
   },
   "dependencies": {
-    "dom-helpers": "^3.3.1",
+    "dom-helpers": "https://github.com/ryd0rz/dom-helpers.git#main",
     "loose-envify": "^1.4.0",
     "prop-types": "^15.6.2",
     "react-lifecycles-compat": "^3.0.4"
